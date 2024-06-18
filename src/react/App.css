@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App::-webkit-scrollbar {
+  background: #A9A9A9;
+  border-radius: 4px;
+}
+
+a {
+  cursor: pointer;
+}
+
+body {
+  background-color: #FFFDFD;
+}
